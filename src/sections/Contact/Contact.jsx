@@ -15,7 +15,7 @@ function Contact() {
 
   return (
     <section id="contact" className={styles.container}>
-      <h1 className={styles.sectionTitle}>Contact</h1>
+      <h1 className={styles.sectionTitle}>Contato</h1>
       <form onSubmit={handleSubmit}>
         <div className={styles.formGroup}>
           <label htmlFor="name" hidden>
