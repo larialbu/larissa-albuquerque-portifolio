@@ -6,6 +6,8 @@
   --text-color: #222;
   --form-text-color: #555;
   --footer-text-color: #888;
+  --text-color-title-card:rgb(255, 0, 0);
+  --card-background-color:#fff;
 }
 
 [data-theme='dark'] {
@@ -16,6 +18,8 @@
   --text-color: #fff;
   --form-text-color: #fff;
   --footer-text-color: #bbb;
+  --text-color-title-card:rgb(255, 123, 0);
+  --card-background-color:#fff;
 }
 
 body {

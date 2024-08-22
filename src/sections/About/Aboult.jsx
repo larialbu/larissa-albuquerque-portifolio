@@ -1,5 +1,5 @@
 import styles from './AboutStyles.module.css';
-import profileImg from '../../assets/lari2.jpg';
+import profileImg from '../../assets/lari.jpg';
 
 function About() {
   return (

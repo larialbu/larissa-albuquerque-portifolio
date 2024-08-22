@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/lari.jpg';
+import heroImg from '../../assets/lala.jpg';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import lattesLight from '../../assets/lattes-new.svg';

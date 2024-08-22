@@ -15,9 +15,9 @@
   }
   
   .card {
-    background: #fff;
+    background: var(--background-color);
     border: 2px solid;
-    border-image: linear-gradient(135deg, rgb(0 22 255), rgb(132, 0, 255)) 1;
+    border-image: linear-gradient(135deg, rgb(255, 0, 0) 0%, rgb(255, 102, 0))1;
     border-radius: 10px;
     padding: 20px;
     width: 300px;
@@ -41,13 +41,13 @@
     margin-bottom: 15px;
     font-size: 18px;
     font-weight: bold;
-    color: rgb(132, 0, 255);
+    color: var(--text-color-title-card);
   }
   
   .card p {
     margin-bottom: 10px;
     font-size: 16px;
-    color: #333;
+    color:var(--text-color);
     line-height: 1.5;
   }
   
