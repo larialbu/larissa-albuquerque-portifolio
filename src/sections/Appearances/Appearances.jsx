@@ -3,6 +3,7 @@ import porto from '../../assets/porto.jpeg';
 import grass from '../../assets/grass.jpeg';
 import unicap from '../../assets/unicap.jpeg';
 import ifpe from '../../assets/ifpe.jpeg';
+import cin from '../../assets/cin.jpg';
 
 function Appearances() {
     return (
@@ -16,6 +17,16 @@ function Appearances() {
               <p>Fui destaque em uma matéria do Jornal Digital Recife, onde compartilhei a alegria de ingressar no mestrado em Engenharia de Software e Linguagem de Programação no Centro de Informática UFPE.</p>
             </div>
             <a href="https://jornaldigital.recife.br/2024/08/19/conquista-define-estudante-do-embarque-digital-ingressa-em-mestrado-na-ufpe/" target="_blank">
+              <button className={styles.moreButton}>Ver mais</button>
+            </a>
+          </div>
+          <div className={styles.card}>
+            <img src={cin} alt="Imagem da aparição ou palestra 5" className={styles.cardImage} />
+            <div className={styles.cardContent}>
+              <h3>Cin-UFPE</h3>
+              <p>Conheça Larissa Albuquerque, nossa mais nova aluna do mestrado em Computação! Clique no link e veja a sua declaração sobre esse momento que abre caminhos em seu futuro...</p>
+            </div>
+            <a href="https://www.linkedin.com/feed/update/urn:li:activity:7233850696817639424/" target="_blank">
               <button className={styles.moreButton}>Ver mais</button>
             </a>
           </div>
@@ -49,6 +60,7 @@ function Appearances() {
               <button className={styles.moreButton}>Ver mais</button>
             </a>
           </div>
+          
         </div>
       </section>
     );
