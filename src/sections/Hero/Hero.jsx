@@ -54,7 +54,7 @@ function Hero() {
         <p className={styles.description}>
           Tenho 19 anos, sou pernambucana e <br />apaixonada por programação.
         </p>
-        <a href="https://www.canva.com/design/DAF3imC90jE/ShsmJ52qZtcuDcRaYV4m0g/view?utm_content=DAF3imC90jE&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+        <a href="https://www.canva.com/design/DAF3imC90jE/1dvqkRqdI7Lvup0qO13Mmg/view?utm_content=DAF3imC90jE&utm_campaign=designshare&utm_medium=link&utm_source=editor">
           <button className="hover">Resumo</button>
         </a>
       </div>
