@@ -10,7 +10,7 @@ function Experiences() {
               <h3>OPA Games</h3>
               <p>Desenvolvedora Frontend Junior</p>
               <p>Ago 2023 - Atual</p>
-              <p>Empresa especializada no desenvolvimento de jogos e dashboards para plataformas de cassino e apostas esportivas. Utiliza tecnologias avançadas como Power BI para oferecer soluções otimizadas e visualizações intuitivas, aprimorando a experiência dos usuários dessas plataformas.</p>
+              <p>Empresa especializada no desenvolvimento de jogos e dashboards para plataformas. Utiliza tecnologias avançadas como Power BI para oferecer soluções otimizadas e visualizações intuitivas, aprimorando a experiência dos usuários dessas plataformas.</p>
               <p><b>Skills: NextJS, ReactJS, TypeScript, Styled Components, React Query</b></p>
             </div>
           </div>
