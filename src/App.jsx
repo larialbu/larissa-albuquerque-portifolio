@@ -2,6 +2,7 @@ import './App.css';
 import About from './sections/About/Aboult';
 import Academico from './sections/Academico/Academico';
 import Appearances from './sections/Appearances/Appearances';
+import Community from './sections/Community/Community';
 import Contact from './sections/Contact/Contact';
 import Experiences from './sections/Experiences/Experiences';
 import Footer from './sections/Footer/Footer';
@@ -21,6 +22,7 @@ function App() {
       <Appearances/>
       <Projects />
       <ResearchProjects/>
+      <Community/>
       <Contact />
       <Footer />
     </>

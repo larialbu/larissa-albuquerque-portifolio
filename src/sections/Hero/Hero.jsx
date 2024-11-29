@@ -39,7 +39,7 @@ function Hero() {
           <br />
           Albuquerque
         </h1>
-        <h2>Desenvolvedora Full Stack, M.Sc</h2>
+        <h2>Dev Full Stack, M.Sc</h2>
         <span>
           <a href="http://lattes.cnpq.br/7448823611009423" target="_blank">
             <img src={lattesIcon} alt="Lattes icon" />

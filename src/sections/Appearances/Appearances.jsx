@@ -1,5 +1,6 @@
 import styles from './AppearancesStyles.module.css';
 import porto from '../../assets/porto.jpeg';
+import cinhacka from '../../assets/cin-hacka.jpg';
 import grass from '../../assets/grass.jpeg';
 import unicap from '../../assets/unicap.jpeg';
 import ifpe from '../../assets/ifpe.jpeg';
@@ -10,6 +11,21 @@ function Appearances() {
       <section id="appearances" className={styles.appearancesContainer}>
         <h1 className={styles.sectionTitle}>Aparições e Palestras</h1>
         <div className={styles.cardsContainer}>
+        <div className={styles.card}>
+            <img src={cinhacka} alt="Imagem da aparição ou palestra 1" className={styles.cardImage} />
+            <div className={styles.cardContent}>
+              <h3>Cin-UFPE, Banco do Brasil, SDEC</h3>
+              <p>Larissa Albuquerque, aluna do CIn-UFPE, vence DOIS hackathons em 1º lugar na mesma semana!<br />
+
+                🔹 Hackathon Banco do Brasil<br />
+
+                🔹 Hackathon Prefeitura do Recife</p>
+            </div>
+            <a href="https://www.instagram.com/p/DColyWKRWJs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
+              <button className={styles.moreButton}>Ver mais</button>
+            </a>
+          </div>
+
           <div className={styles.card}>
             <img src={porto} alt="Imagem da aparição ou palestra 1" className={styles.cardImage} />
             <div className={styles.cardContent}>
