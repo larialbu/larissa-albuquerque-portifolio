@@ -4,7 +4,7 @@ import logoImg from '../../assets/rfec.jpg';
 function Community() {
   return (
     <section id="community" className={styles.container}>
-    <h1 className="sectionTitle">Recife Front End Community</h1>
+    <h1 className="sectionTitle">Faça parte da minha Comunidade</h1>
     <div className={styles.communityContainer}>
       <div className={styles.communityText}>
         <p>
