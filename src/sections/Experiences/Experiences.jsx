@@ -11,7 +11,7 @@ function Experiences() {
               <p>Associate Software Engineer</p>
               <p>Dez 2024 - Atual</p>
               <p>Centro de soluções tecnológicas que possui desafios relevantes para catalisar as soluções na oferta de serviços e produtos, integrando experiência aos consumidores. O FCx Labs é um elo entre o cenário presente do varejo e todas as transformações que estão acontecendo pelas influências da tecnologia.</p>
-              <p><b>Skills: NextJS, ReactJS, TypeScript, Styled Components, React Query</b></p>
+              <p><b>Skills: NextJS, ReactJS, TypeScript, Styled Components, React Query, NestJS</b></p>
             </div>
           </div> 
           <div className={styles.timelineItem}>
