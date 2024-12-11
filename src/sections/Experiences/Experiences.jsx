@@ -5,7 +5,7 @@ function Experiences() {
       <section id="experiences" className={styles.experiencesContainer}>
         <h1 className="sectionTitle">Experiências</h1>
         <div className={styles.timeline}>
-        {/* <div className={styles.timelineItem}>
+        <div className={styles.timelineItem}>
             <div className={styles.timelineContent}>
               <h3>FCx labs - Ferreira Costa</h3>
               <p>Associate Software Engineer</p>
@@ -13,7 +13,7 @@ function Experiences() {
               <p>Centro de soluções tecnológicas que possui desafios relevantes para catalisar as soluções na oferta de serviços e produtos, integrando experiência aos consumidores. O FCx Labs é um elo entre o cenário presente do varejo e todas as transformações que estão acontecendo pelas influências da tecnologia.</p>
               <p><b>Skills: NextJS, ReactJS, TypeScript, Styled Components, React Query</b></p>
             </div>
-          </div> */}
+          </div> 
           <div className={styles.timelineItem}>
             <div className={styles.timelineContent}>
               <h3>OPA Games</h3>
